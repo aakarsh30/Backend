@@ -4,139 +4,139 @@
     "name": "Mac & Cheese",
     "price": "8.99",
     "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
-    "image": "images/mac-and-cheese.jpg"
+    "image": "https://img.freepik.com/free-photo/delicious-burger-with-many-ingredients-isolated-white-background-tasty-cheeseburger-splash-sauce_90220-1266.jpg?w=740&t=st=1707467407~exp=1707468007~hmac=cf0c546aaf9ec8f0fcaf12736da8a148b6b89cee913f3902a69bb406969eeb0b"
   },
   {
     "id": "m2",
     "name": "Margherita Pizza",
     "price": "12.99",
     "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
-    "image": "images/margherita-pizza.jpg"
+    "image": "https://img.freepik.com/free-photo/mix-pizza-with-tomato-slices-mushroom-olive_140725-185.jpg?w=740&t=st=1707467596~exp=1707468196~hmac=a8005b52dfe0e5b5378add6f2828fc6531449dc945d1bf4a861a756bcb11b362"
   },
   {
     "id": "m3",
     "name": "Caesar Salad",
     "price": "7.99",
     "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
-    "image": "images/caesar-salad.jpg"
+    "image": "https://img.freepik.com/free-photo/delicious-salad-red-plate-with-oil-high-angle-view-wooden-background_176474-3635.jpg?w=740&t=st=1707467688~exp=1707468288~hmac=6c5a3d9decc3bdf03eaec62319f53e9e1e3284d9cec3b9eec1da4b129582487a"
   },
   {
     "id": "m4",
     "name": "Spaghetti Carbonara",
     "price": "10.99",
     "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
-    "image": "images/spaghetti-carbonara.jpg"
+    "image": "https://img.freepik.com/free-photo/flat-lay-italian-food-composition_23-2148202537.jpg?w=740&t=st=1707467731~exp=1707468331~hmac=07a4eeb6fa9f40b8f479ba44045bfe474f5cec0d9bed9bfbf344043c55c038a4"
   },
   {
     "id": "m5",
     "name": "Veggie Burger",
     "price": "9.99",
     "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
-    "image": "images/veggie-burger.jpg"
+    "image": "https://img.freepik.com/free-photo/delicious-burger-with-many-ingredients-isolated-white-background-tasty-cheeseburger-splash-sauce_90220-1266.jpg?w=740&t=st=1707467407~exp=1707468007~hmac=cf0c546aaf9ec8f0fcaf12736da8a148b6b89cee913f3902a69bb406969eeb0b"
   },
   {
     "id": "m6",
     "name": "Grilled Chicken Sandwich",
     "price": "10.99",
     "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
-    "image": "images/grilled-chicken-sandwich.jpg"
+    "image": "https://img.freepik.com/free-photo/side-view-club-sandwich-with-salted-cucumbers-lemon-olives-round-white-plate_176474-3049.jpg?w=740&t=st=1707467815~exp=1707468415~hmac=1eddcc5706d7d4f0a162962db2c98273685d15b7d7945fa7d1a3f3b2c6b70bc9"
   },
   {
     "id": "m7",
     "name": "Steak Frites",
     "price": "17.99",
     "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
-    "image": "images/steak-frites.jpg"
+    "image": "https://img.freepik.com/free-photo/fried-meat-ribs-with-vegetables-potatoes_140725-2109.jpg?w=740&t=st=1707467853~exp=1707468453~hmac=8f681bd78b83b370b32519ab7b00364faf2bc9851b2e3a66771cb181aff7b30d"
   },
   {
     "id": "m8",
     "name": "Sushi Roll Platter",
     "price": "15.99",
     "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
-    "image": "images/sushi-roll-platter.jpg"
+    "image": "https://img.freepik.com/free-photo/sushi-dish-asian-restaurant_23-2148195553.jpg?w=740&t=st=1707467891~exp=1707468491~hmac=5554ae4f351100a1f8183867c38a7fe71fd3f5d6fcb3651033d0e8b9f565b1a0"
   },
   {
     "id": "m9",
     "name": "Chicken Curry",
     "price": "13.99",
     "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
-    "image": "images/chicken-curry.jpg"
+    "image": "https://img.freepik.com/premium-photo/pork-panang-curry-red-curry-with-pork-thai-food_62856-5558.jpg?w=740"
   },
   {
     "id": "m10",
     "name": "Vegan Buddha Bowl",
     "price": "11.99",
     "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
-    "image": "images/vegan-buddha-bowl.jpg"
+    "image": "https://img.freepik.com/free-photo/grilled-chicken-rice-spicy-chickpeas-avocado-cabbage-pepper-buddha-bowl_127032-1996.jpg?w=740&t=st=1707467988~exp=1707468588~hmac=cf70446ae69c2d2bb64e3f9034e168100ff4f2b0fe62c4f3c3287e9693844f9e"
   },
   {
     "id": "m11",
     "name": "Seafood Paella",
     "price": "19.99",
     "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and chorizo.",
-    "image": "images/seafood-paella.jpg"
+    "image": "https://img.freepik.com/free-photo/overhead-shot-pasta-near-pan-fried-lobster-meat-with-oysters-wooden-surface_181624-1935.jpg?w=740&t=st=1707468020~exp=1707468620~hmac=f2621553645cbdf397f1f6867c207ad6ee370bb7321172b2c77d05d46272c2aa"
   },
   {
     "id": "m12",
     "name": "Pancake Stack",
     "price": "8.99",
     "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
-    "image": "images/pancake-stack.jpg"
+    "image": "https://img.freepik.com/free-photo/delicious-pancakes-with-powdered-sugar_23-2148858510.jpg?w=740&t=st=1707468247~exp=1707468847~hmac=60067e7e6da70bffcf41133afd422dfbf28ab6fe4526b837d9eb876823f47fcb"
   },
   {
     "id": "m13",
     "name": "Miso Ramen",
     "price": "12.99",
     "description": "A warming bowl of ramen with miso broth, tender pork, soft-boiled egg, and green onions.",
-    "image": "images/miso-ramen.jpg"
+    "image": "https://img.freepik.com/free-photo/top-view-noodles-bowl-arrangement_23-2148803821.jpg?w=740&t=st=1707468294~exp=1707468894~hmac=10ea45cd9b0f49e25b2aaa271aacf1682982320ef7eae3e4ca7b1279c0c7de76"
   },
   {
     "id": "m14",
     "name": "Beef Tacos",
     "price": "9.99",
     "description": "Three soft tortillas filled with seasoned beef, fresh salsa, cheese, and sour cream.",
-    "image": "images/beef-tacos.jpg"
+    "image": "https://img.freepik.com/free-photo/top-view-fresh-mexican-food-with-lime_23-2148614359.jpg?w=740&t=st=1707468344~exp=1707468944~hmac=80b8b40f2442c6e501b5695aff8552e25a2d34f8bc49e7e1cabdb76c40c3069b"
   },
   {
     "id": "m15",
     "name": "Chocolate Brownie",
     "price": "5.99",
     "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
-    "image": "images/chocolate-brownie.jpg"
+    "image": "https://img.freepik.com/free-photo/chocolate-cream-cake-with-chocolate-chips-walnut_176474-2952.jpg?w=740&t=st=1707468375~exp=1707468975~hmac=be36a161cf3f0a799e4b0e48d81234dba88317fb4b63cd59b6773a553fb46a95"
   },
   {
     "id": "m16",
     "name": "Lobster Bisque",
     "price": "14.99",
     "description": "A creamy soup made from lobster stock, aromatic vegetables, and a touch of brandy.",
-    "image": "images/lobster-bisque.jpg"
+    "image": "https://img.freepik.com/free-photo/high-angle-delicious-shrimp-meal_23-2148771278.jpg?w=740&t=st=1707468203~exp=1707468803~hmac=eee19d8042a0b0e8064ca2fcb31fbe0924774678622a1f3c988095ab19348898"
   },
   {
     "id": "m17",
     "name": "Mushroom Risotto",
     "price": "13.99",
     "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
-    "image": "images/mushroom-risotto.jpg"
+    "image": "https://img.freepik.com/free-photo/plate-mushroom-risotto-topped-with-grated-cheese_141793-469.jpg?w=740&t=st=1707468171~exp=1707468771~hmac=54f568f5aba41d83fcee456dd0c26c30729afe7039b314633f82ab1bea36ff21"
   },
   {
     "id": "m18",
     "name": "Eggplant Parmesan",
     "price": "11.99",
     "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
-    "image": "images/eggplant-parmesan.jpg"
+    "image": "https://img.freepik.com/free-photo/plate-with-stuffed-vegetables_23-2148482428.jpg?w=740&t=st=1707468139~exp=1707468739~hmac=396e0352e2791bc4662345b511994ce7407d776f1909d8788f8ffbec13f9315c"
   },
   {
     "id": "m19",
     "name": "Lemon Cheesecake",
     "price": "6.99",
     "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
-    "image": "images/lemon-cheesecake.jpg"
+    "image": "https://img.freepik.com/free-photo/traditional-french-lemon-pie-with-blueberries-white-stone-background_127032-2761.jpg?w=740&t=st=1707468105~exp=1707468705~hmac=098810708521a706461795d96b42f4ca149dbae812c6f8cdddd93abc882fa29a"
   },
   {
     "id": "m20",
     "name": "Falafel Wrap",
     "price": "8.99",
     "description": "Crispy falafels wrapped in a warm pita with lettuce, tomatoes, and a tahini sauce.",
-    "image": "images/falafel-wrap.jpg"
+    "image": "https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg?w=740&t=st=1707468070~exp=1707468670~hmac=17c39a0ddf11a0085ad8ef71124ff88788278bd2db115e36d71501bb7cbcb277"
   }
 ]
