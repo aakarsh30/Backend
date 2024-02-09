@@ -15,8 +15,8 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get("/meals", async (req, res) => {
-  const meals = await fs.readFile("./data/available-meals.json", "utf8");
+app.get("/meals", (req, res) => {
+  // const meals = await fs.readFile("./data/available-meals.json", "utf8");
   res.json("hello");
 });
 
