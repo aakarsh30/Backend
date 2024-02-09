@@ -1,13 +1,13 @@
 import fs from "node:fs/promises";
-
+// import cors from "cors";
 import bodyParser from "body-parser";
 import express from "express";
 
 const app = express();
-const cors = require("cors");
+// const cors = require("cors");
 app.use(bodyParser.json());
 app.use(express.static("public"));
-
+// app.use("cors");
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET, POST");
@@ -17,7 +17,7 @@ app.use((req, res, next) => {
 
 app.get("/meals", async (req, res) => {
   const meals = await fs.readFile("./data/available-meals.json", "utf8");
-  res.json("Hello");
+  res.json(JSON.parse(meals));
 });
 
 app.post("/orders", async (req, res) => {
@@ -65,4 +65,4 @@ app.use((req, res) => {
 });
 
 app.listen(8080);
-module.exports = app;
+// module.exports = app;
