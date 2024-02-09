@@ -1,13 +1,15 @@
-import fs from "node:fs/promises";
-// import cors from "cors";
-import bodyParser from "body-parser";
-import express from "express";
+// import fs from "node:fs/promises";
+// import apidata from "./data/available-meals";
+// import bodyParser from "body-parser";
+// import express from "express";
 
+const express = require("express");
+const cors = require("cors");
+const bodyParser = require("body-parser");
 const app = express();
-// const cors = require("cors");
+const apidata = require("./data/available-meals.json");
 app.use(bodyParser.json());
 app.use(express.static("public"));
-// app.use("cors");
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET, POST");
@@ -17,7 +19,7 @@ app.use((req, res, next) => {
 
 app.get("/meals", (req, res) => {
   // const meals = await fs.readFile("./data/available-meals.json", "utf8");
-  res.json("hello");
+  res.send(apidata);
 });
 
 app.post("/orders", async (req, res) => {
